@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "823686208432",
+    "firebase_url": "https://capstone-1a1cc.firebaseio.com",
+    "project_id": "capstone-1a1cc",
+    "storage_bucket": "capstone-1a1cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823686208432:android:985cda72a7514b0a981475",
+        "android_client_info": {
+          "package_name": "ca.frozen.rpicameraviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823686208432-239va34ledo6o3ecmtqbh96ogfrjjgeh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtEKVk9uGmbqpC37J72ePKttcXhDqjEsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823686208432-239va34ledo6o3ecmtqbh96ogfrjjgeh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
