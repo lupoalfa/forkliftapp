@@ -1,6 +1,5 @@
-# RPi Camera Viewer
+# 지게차 안전관리 App
 
-This program plays the raw H.264 video from a Raspberry Pi.
 
 ## Copyright and License
 
